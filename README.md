@@ -1,6 +1,6 @@
 # ZoomControl
 ZoomControlMenuAppForMacOS<br>
-This menu app adds the same funcionality as ctrl + mouse scrool at Windows OS for zoom in and out. <br>
+This menu app adds the same funcionality as ctrl + mouse scrool at Windows OS for zoom in and out. <br><br>
 This is the full app if you want a build version https://drive.google.com/file/d/1j8tArEalx0wLlxuxIT1lA9ZMj68_9RC_/view?usp=sharing<br>
 I don't have Apple Developer account at the moment.<br><br>
 This app only works with US keyboard key lineup and uses virtual keys. For it to work properly if it doesn't worked when you launched, try this aproach, go to system settings > accesibility > zoom and check 'Use keyboard shortcuts to zoom' this should work.<br><br>
